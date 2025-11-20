@@ -1,0 +1,14 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+3I40_1|Chain       --GIVEQCCTSICSLYQLENYCN----------	21
+1ZNI_1|Chains      --GIVEQCCTSICSLYQLENYCN----------	21
+4INS_1|Chains      --GIVEQCCTSICSLYQLENYCN----------	21
+4E7U_1|Chains      --GIVEQCCASVCSLYQLENYCN----------	21
+5JYQ_1|Chain       --GVVEHCCHRPCSNAEFKKYC-----------	20
+3I40_2|Chain       --FVNQHLCGSHLVEAL-YLVCGERGFFYTPKA	30
+4E7U_2|Chains      --FVNQHLCGSHLVEAL-YLVCGERGFFYTPKA	30
+1ZNI_2|Chains      --FVNQHLCGSHLVEAL-YLVCGERGFFYTPKA	30
+4INS_2|Chains      --FVNQHLCGSHLVEAL-YLVCGERGFFYTPKA	30
+5JYQ_2|Chain       TFDTPKHRCGSEITNSY-MDLCYR---------	23
+                        :: *            *           
